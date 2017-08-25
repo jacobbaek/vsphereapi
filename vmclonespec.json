@@ -1,0 +1,10 @@
+{
+  "cpu": "1",
+  "memory": "1024",
+  "network": "VM Network",
+  "srcVM_name": "CloneImage",
+  "dstVM_name": "TestClone",
+  "host": "192.168.1.10",
+  "folder": "TestFolder",
+  "datastore": "default-container-19999"
+}

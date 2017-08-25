@@ -1,0 +1,5 @@
+{
+  "vmpattern": "TestClone",
+  "targethost": "192.168.1.11",
+  "targetdatastore": "NTNX_Datastore"
+}
